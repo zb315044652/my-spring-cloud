@@ -20,13 +20,13 @@
     <modules>
         <module>server</module>
         <module>client</module>
-        <module>client2</module>
-        <module>feign</module>
-        <module>ribbon</module>
-        <module>zuul</module>
-        <module>turbine</module>
-        <module>zipkin</module>
-        <module>hystrix</module>
+<!--        <module>client2</module>-->
+<!--        <module>feign</module>-->
+<!--        <module>ribbon</module>-->
+<!--        <module>zuul</module>-->
+<!--        <module>turbine</module>-->
+<!--        <module>zipkin</module>-->
+<!--        <module>hystrix</module>-->
         <module>gateway</module>
     </modules>
 
